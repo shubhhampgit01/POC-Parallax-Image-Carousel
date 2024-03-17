@@ -1,4 +1,5 @@
-![image](https://github.com/shubhhampgit01/POC-Parallax-Image-Carousel/assets/138300875/7ea4d191-09a8-4934-847d-fc2a3d9544ce)
+# Image Carousel 
+![image](https://github.com/shubhhampgit01/POC-Parallax-Image-Carousel/assets/138300875/3bc93c7f-2eb7-4601-8325-fae6017f832c)
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
